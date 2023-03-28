@@ -1,0 +1,2 @@
+recursive-include tutorchangelogo/patches *
+recursive-include tutorchangelogo/templates *
